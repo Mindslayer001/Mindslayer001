@@ -5,7 +5,7 @@
 <br>🤝 I’m looking for help with internship recommendations
 <br>🌱 I’m currently learning AI/ML  and Web Developing
 <br>⚡ Fun fact: I am a Computer enthusiastic.
-<br> This is my ![webpage](https://mindslayer001.github.io/Portifolio/)  
+<br> This is my ![webpage](https://mindslayer001.github.io/Portfolio/)  
 
 
 ## 🌐 Socials:
