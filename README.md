@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88C0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mani+Sankar+Chintagunti;I'm+20+years+old;I'm+from+India;I'm+Graduating+Computer+Science+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88C0D0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Mani+Sankar+Chintagunti;I'm+20+years+old;I'm+from+India;I'm+Pursuing+Computer+Science+Major;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <h3>  My Portfolio website:- <a href="https://mindslayer001.github.io/Portfolio/">https://mindslayer001.github.io/Portfolio/</a></h3>
 <div align="center">  
