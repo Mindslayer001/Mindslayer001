@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mani sankar Chintagunti</h1>
 - 🌱 I’m currently learning **Java Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://mindslayer001.github.io/Portfolio/](https://mindslayer001.github.io/Portfolio/)
-
 - 📝 I regularly write articles on [https://mindslayer001.blogspot.com](https://mindslayer001.blogspot.com)
-
 - 📫 How to reach me **[manisankarchintagunti@gmail.com](mailto:manisankarchintagunti@gmail.com)**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mA2_Dx6HpLoE5DB3l6rrfIQ39dCngp9i/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
