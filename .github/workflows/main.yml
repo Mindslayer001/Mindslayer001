@@ -1,0 +1,28 @@
+name: Generate GitHub Stats Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily
+
+jobs:
+  generate_badge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Stats Badge
+        uses: datarootsio/github-stats-card@v1.3.28
+        with:
+          username: mindslayer001
+          gh_token_stats: ${{ secrets.GITHUB_TOKEN }} # Ensure you have this secret set in your repository's secrets
+
+      # Optional step to commit the badge to the repository
+      - name: Commit badge to repository
+        if: steps.generate_badge.outputs.commit == 'true' # Check if commit option is set to true
+        run: |
+          git config user.name "mindslayer001"
+          git config user.email "manisankarchintagunti@gmail.com"
+          git add assets/badge.svg
+          git commit -m "Update GitHub Stats Badge"
+          git push
