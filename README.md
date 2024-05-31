@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mani sankar Chintagunti</h1>
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning Java Spring Boot
 
 - 👨‍💻 All of my projects are available at [https://mindslayer001.github.io/Portfolio/](https://mindslayer001.github.io/Portfolio/)
 
