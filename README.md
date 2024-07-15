@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mani sankar Chintagunti</h1>
 
 - 🌱 I’m currently learning Java Spring Boot
-- 
+
 - 📝 I regularly write articles on [https://mindslayer001.blogspot.com](https://mindslayer001.blogspot.com)
   
 - 📫 How to reach me **[manisankarchintagunti@gmail.com](mailto:manisankarchintagunti@gmail.com)**
