@@ -32,15 +32,15 @@
 </p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:manisankarchintagunti@gmail.com" target="_blank">
+  <a href="mailto:manisankarchintagunti@gmail.com" target="_blank" style="margin:20px";>
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
    <a href="https://mindslayer001.github.io/Portfolio/" target="_blank">
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manisankar001/" target="_blank">
+
+  <a href="https://linkedin.com/in/manisankar001/" target="_blank" style="margin:20px">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
